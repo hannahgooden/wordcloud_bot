@@ -1,9 +1,10 @@
 # Wordcloud Bot
 
-Written by Hannah Gooden, 3/2/18
-This is a submission to the General Motors-Aggie Coding Club Bot Contest held on 2/16/18. 
-I can be contacted at hannah.goodenn@gmail.com or hannah.gooden@tamu.edu.
-All wordclouds produced by the bot will be tweeted at @wordcloud_fun: https://twitter.com/wordcloud_fun/with_replies
+Written by Hannah Gooden, 3/2/18  
+This is a submission to the General Motors-Aggie Coding Club Bot Contest held on 2/16/18.  
+I can be contacted at hannah.goodenn@gmail.com or hannah.gooden@tamu.edu.  
+All wordclouds produced by the bot will be tweeted at @wordcloud_fun: https://twitter.com/wordcloud_fun/with_replies  
+**To preserve privacy, the api tokens have been hidden on this github
 
 ## Getting Started
 
@@ -21,4 +22,3 @@ Run "python main.py" to start the program. You will be prompted for a twitter na
 ## Acknowledgments
 
 * Reused some code for scraping tweets found here: https://gist.github.com/yanofsky/5436496
-
